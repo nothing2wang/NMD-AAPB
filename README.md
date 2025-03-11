@@ -1,3 +1,3 @@
 Updating.......
 
-Demo for "Alternating Partial Bregman Algorithms for ReLU-based Regularized Matrix Factorization"
+Demo for "An Accelerated Alternating Partial Bregman Algorithm for ReLU-based Matrix Decomposition"
